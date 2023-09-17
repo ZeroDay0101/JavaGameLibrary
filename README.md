@@ -26,4 +26,4 @@ JumpingGame (Something like in pou)
 
 Tetris
 
-![Zrzut ekranu 2023-09-17 201221](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/312c909f-35da-4d5e-8daa-fda0fe624037)
+![Zrzut ekranu 2023-09-17 201221](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/8d373fae-ff51-484e-a059-4c17b3ebefc6)
