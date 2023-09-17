@@ -5,25 +5,25 @@ Collection of games:
 
 Snake
 
-![Zrzut ekranu 2023-09-17 194313](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/38b58fa2-08a8-483c-9c40-83f6f47ed3bf)
+![Zrzut ekranu 2023-09-17 194313](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/ef7d368a-7b3b-499a-a8b6-e9beb32392e6)
 
 Pong
 
-![Zrzut ekranu 2023-09-17 194445](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/c45c5328-9248-4d82-819f-96802c5cad40)
+![Zrzut ekranu 2023-09-17 194445](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/597341f7-8e82-4c51-9946-c29c093f83ba)
 
 FlappyBird
 
-![Zrzut ekranu 2023-09-17 194524](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/53d5c012-2b5b-486e-b20e-9185fd31854a)
+![Zrzut ekranu 2023-09-17 194524](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/ae037232-3917-4c12-a443-8f06ab78565c)
 
 TicTacToe
 
-![Zrzut ekranu 2023-09-17 194805](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/c8e340a2-5c7b-4191-b7ae-4f3338a8180e)
+![Zrzut ekranu 2023-09-17 194805](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/f2fc15ba-07d9-4dd1-927e-d03899ed352a)
 
 JumpingGame (Something like in pou)
 
-![Zrzut ekranu 2023-09-17 194938](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/195b58d7-602c-4429-a5e3-111763f9f335)
+![Zrzut ekranu 2023-09-17 194938](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/aba10c9d-9fcc-42c8-9754-e5503839164c)
 
 
 Tetris
 
-![Zrzut ekranu 2023-09-17 201221](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/8d373fae-ff51-484e-a059-4c17b3ebefc6)
+![Zrzut ekranu 2023-09-17 201221](https://github.com/ZeroDay0101/JavaGameLibrary/assets/125507344/f0cd736b-9733-4dfd-a53d-d3acc3028a3a)
